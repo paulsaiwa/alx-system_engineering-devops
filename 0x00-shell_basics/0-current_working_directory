@@ -1,2 +1,2 @@
 #!/bin/bash
-echo'Where am I?'. $PATH
+echo  $PATH
